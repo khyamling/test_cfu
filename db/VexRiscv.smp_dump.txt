@@ -1,0 +1,19 @@
+
+State Machine - |VexRiscv|VexRiscv_FullCfu:VexRiscv1|JtagBridge:jtagBridge_1|jtag_tap_fsm_state
+Name jtag_tap_fsm_state.1111 jtag_tap_fsm_state.1110 jtag_tap_fsm_state.1101 jtag_tap_fsm_state.1100 jtag_tap_fsm_state.1011 jtag_tap_fsm_state.1010 jtag_tap_fsm_state.1001 jtag_tap_fsm_state.1000 jtag_tap_fsm_state.0111 jtag_tap_fsm_state.0110 jtag_tap_fsm_state.0101 jtag_tap_fsm_state.0100 jtag_tap_fsm_state.0011 jtag_tap_fsm_state.0010 jtag_tap_fsm_state.0001 jtag_tap_fsm_state.0000 
+jtag_tap_fsm_state.0000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+jtag_tap_fsm_state.0001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+jtag_tap_fsm_state.0010 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+jtag_tap_fsm_state.0011 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+jtag_tap_fsm_state.0100 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+jtag_tap_fsm_state.0101 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+jtag_tap_fsm_state.0110 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+jtag_tap_fsm_state.0111 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1000 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1001 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1010 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1011 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1100 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1101 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1110 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+jtag_tap_fsm_state.1111 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

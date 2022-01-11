@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu Dec 23 23:34:58 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : VexRiscv
+Top-level Entity Name : VexRiscv
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 1932
+Total pins : 386
+Total virtual pins : 0
+Total block memory bits : 73,216
+Total DSP Blocks : 4
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
